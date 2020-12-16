@@ -1,0 +1,8 @@
+.idea
+checkpoints/*
+data/*
+mel_spectrograms/*
+__pycache__
+our_data/*
+*.wav
+*.pt
