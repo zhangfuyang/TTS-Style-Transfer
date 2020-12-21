@@ -1,4 +1,8 @@
 .idea
+pca*
+logs/
+*.png
+*.txt
 checkpoints/*
 data/*
 mel_spectrograms/*
